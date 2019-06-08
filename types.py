@@ -67,4 +67,4 @@ print(cities)
 cities[0]["date"]='27.05.2019'
 print(cities)
 #Выведите на экран длину словаря
-print(len(cities))
+#print(len(cities))
